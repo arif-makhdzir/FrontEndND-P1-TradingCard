@@ -1,0 +1,38 @@
+/* add your CSS here */
+p.interesting{
+  font-style: italic;
+}
+
+
+span.labels{
+  font-weight: bold;
+}
+
+ul.animal-list{
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.animal-title{
+  margin-top: 10px;
+}
+.animal-pict{
+  width: 300px;
+}
+.animal-description{
+  width: 280px;
+  padding: 10px;
+  margin-top: 10px;
+  border-style: solid;
+  border-color: darkgrey;
+  border-width: thin;
+}
+
+.animal-card{
+  width: 300px;
+  padding: 10px;
+  border-style: solid;
+  border-color: darkgrey;
+  border-width: thin;
+  box-shadow: 5px 5px darkgrey;
+}
